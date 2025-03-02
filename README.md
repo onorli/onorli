@@ -1,4 +1,4 @@
-## Hi there 👋
+I am a professor of finance at BI Norwegian Business School. I received my Phd. from the Norwegian School of Economics and Business Administration in 1999. During the period 1999 through 2004, I held the David Y. Timbrell Junior Professorship (as an assistant professor) at Rotman School of Management, University of Toronto. Between 2003 and 2005 I was a visiting assistant professor at the Tuck School of Business, Dartmouth College. I started to work at BI Norwegian Business School in 2005 and have been a professor of finance at BI since 2008. My main research interests are empirical corporate finance and empirical asset pricing.
 
 <!--
 **onorli/onorli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
